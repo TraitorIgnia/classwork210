@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MMP 210</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="container">
+      <h1>Welcome to my Page!</h1>
+      <p>This is my MMP 210 portfolio.</p>
+      <ul>
+        <li class="link">Self Portrait Version 1</a></li>
+        <li class="link">Self Portrait Version 2</li>
+        <li class="link">Self Portrait Version 3</li>
+      </ul>
+      <img src="https://upload.shunwang.com/2016/1123/1479881905354.jpg" width="100%">
+    </div>
+  </body>
+</html>
+
+body {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  background-color: skyblue;
+  color: purple;
+}
+#container {
+  padding: 50px 0;
+  width: 500px;
+  margin: 0 auto;
+}
