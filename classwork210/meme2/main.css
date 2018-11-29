@@ -1,0 +1,28 @@
+#container {
+    padding: 50px 0;
+    width: 500px;
+    margin: 0 auto;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    display: inline-block;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+}
