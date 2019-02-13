@@ -13,7 +13,7 @@ function draw() {
     ellipse(200, 200, 300);
 	
 	// eyes
-	fill("blue");
+	fill("black");
 	ellipse(150, 150, 50, 100);
 	ellipse(250, 150, 40, 100);
 	
